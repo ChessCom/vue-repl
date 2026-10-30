@@ -106,5 +106,10 @@
     "vscode-uri": "^3.0.8",
     "vue": "^3.5.8",
     "vue-tsc": "~2.1.6"
+  },
+  "pnpm": {
+    "overrides": {
+      "handlebars": "4.7.10"
+    }
   }
 }
